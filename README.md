@@ -25,8 +25,8 @@ Invoice converted to PDF
 Customers Billing in PDF
 <img width="1920" height="1080" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/17a6c247-cdc4-46f2-9375-b7ba929065f1" />
 
-Loggedin as Admin Account
+Loggedin as Manager Account
 <img width="1920" height="1080" alt="Screenshot (79) with Manager logged in" src="https://github.com/user-attachments/assets/53ca2883-cf7e-46c4-9cf4-0b0ec2cb87e7" />
 
-From Admin Account 
+Loggedin as Admin Account 
 <img width="1920" height="1080" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/379bc223-5f13-46d8-8d46-1390e4247fab" />
